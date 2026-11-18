@@ -1,0 +1,37 @@
+{
+  "date": "2026-11-18",
+  "plugin_id": "org.wordflowlab.story-translation",
+  "package_sha256": "b06c006fe26f7db61b88a991cb033d2a01dc7df6c9f91c36e45bba2de6106fcd",
+  "host_version": "hetu 0.11.7",
+  "platform": "darwin",
+  "architecture": "arm64",
+  "tabs": [
+    "源译对照",
+    "术语表",
+    "翻译问题",
+    "覆盖与更新",
+    "接续创作"
+  ],
+  "empty_state": true,
+  "professional_actions": true,
+  "artifact_files": [
+    "成果.html"
+  ],
+  "themes": [
+    "light",
+    "dark"
+  ],
+  "widths": [
+    1360,
+    760
+  ],
+  "reduced_transparency": true,
+  "CAS_preserves_input": true,
+  "explicit_rebase": true,
+  "close_reopen": true,
+  "dirty_buffer_restore": true,
+  "page_errors": [],
+  "limits": [
+    "原生窗口材质、系统输入法及Windows/Linux未由本测试证明"
+  ]
+}

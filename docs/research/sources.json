@@ -1,0 +1,46 @@
+{
+  "date": "2026-11-18",
+  "references": [
+    {
+      "repository": "coldgust/dsh-translation-assistant",
+      "commit": "86d488892f780c3a4ad76cc8c7e20303234abcf5",
+      "license": "Apache-2.0",
+      "files": [
+        {
+          "path": "README.md",
+          "sha256": "05c20a5279bcf57b1e7dc68db8045ff721b281aa536e20272e322c9c9efe4fcb"
+        },
+        {
+          "path": "README.zh.md",
+          "sha256": "fe960bf1283488f1df39938dc93bb559b7d764889fb24b9b2770d5a2a32f5813"
+        },
+        {
+          "path": "LICENSE",
+          "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+        },
+        {
+          "path": "package.json",
+          "sha256": "bcbc0fa3b8d1dd27bc404397045931fb70fe743497e678cf0f0089ca7f947392"
+        },
+        {
+          "path": "src/shared/contract.ts",
+          "sha256": "4aa0d982e7fc80a2d1db2c351f7b2f88eb4fcf8f8363cc18fb73bf6c3e2f1f52"
+        },
+        {
+          "path": "src/host/engine.ts",
+          "sha256": "1d05020f79c0f9a4b7f62902cf284a8e156f41679013566a626a78e053fb815d"
+        },
+        {
+          "path": "src/host/workspace.ts",
+          "sha256": "b5c28bedb05a31f0901ce71ceea34184b58249e4602a1c5ee922f9d121a1db93"
+        },
+        {
+          "path": "src/client/core/history.ts",
+          "sha256": "80f4d1940105ec747d4c7a63f016badc6a36fe5b0e5b59636c65114b8f27d848"
+        }
+      ],
+      "source_only": true
+    }
+  ],
+  "scope": "已逐个克隆的固定research base；方法与格式参考；不执行上游安装、测试或模型。"
+}

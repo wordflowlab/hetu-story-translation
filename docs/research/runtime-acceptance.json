@@ -1,0 +1,47 @@
+{
+  "date": "2026-11-18",
+  "plugin_id": "org.wordflowlab.story-translation",
+  "version": "0.1.0",
+  "package_sha256": "b32b38b56403265547b5143d34c98a1dcc3cc74cf38d24955f176491bdd05a3f",
+  "host_version": "hetu 0.11.7",
+  "platform": "darwin",
+  "architecture": "arm64",
+  "actions": [
+    "save_project",
+    "put_alignment",
+    "put_term",
+    "list_projects",
+    "get_source",
+    "get_operation",
+    "get_basis",
+    "get_alignment",
+    "check_translation",
+    "preview_update",
+    "put_issue",
+    "export_bilingual",
+    "get_project",
+    "build_context",
+    "create_handoff",
+    "compare_versions",
+    "export_project",
+    "remove_issue",
+    "remove_term",
+    "remove_alignment"
+  ],
+  "expected_rejections": [],
+  "skill_resources": 3,
+  "lifecycle": [
+    "install",
+    "disable",
+    "enable",
+    "uninstall",
+    "install"
+  ],
+  "fixed_history": true,
+  "CAS": true,
+  "original_key_recovery": true,
+  "artifact_sha256_verified": true,
+  "limits": [
+    "跨平台、真实创作质量、正文采纳、定稿和付费模型未在本用例验收"
+  ]
+}
