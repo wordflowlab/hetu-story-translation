@@ -15,9 +15,12 @@
 ```bash
 npm ci
 npm run build
-npm run verify
+npm run check
+npm run test:unit
 npm run package
 ```
+
+完整机器与工作面验收还需要河图宿主源码中的测试依赖，以及可执行的CLI/MCP、插件运行器和Electron。环境与固定正式包验收见[开发发布](docs/07-开发发布与上架.md)；`npm run verify`执行全部分层检查。
 
 ## 边界
 
